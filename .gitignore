@@ -1,3 +1,6 @@
+# backup directory
+backup
+
 *.py[cod]
 
 # C extensions
